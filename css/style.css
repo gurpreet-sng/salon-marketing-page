@@ -1,0 +1,3422 @@
+@font-face {
+    font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+    src: url('../fonts/Tartuffo_TrialBoldBF643371dae156a.eot');
+    src: url('../fonts/Tartuffo_TrialBoldBF643371dae156a.eot') format('embedded-opentype'),
+         url('../fonts/Tartuffo_TrialBoldBF643371dae156a.woff2') format('woff2'),
+         url('../fonts/Tartuffo_TrialBoldBF643371dae156a.woff') format('woff'),
+         url('../fonts/Tartuffo_TrialBoldBF643371dae156a.ttf') format('truetype'),
+         url('../fonts/Tartuffo_TrialBoldBF643371dae156a.svg#Tartuffo_TrialBoldBF643371dae156a') format('svg');
+}
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'DM Sans', sans-serif;
+}
+.landingimage img{
+	width: 100%;
+}
+.btn{
+	background: #F51E52;
+}
+.easy-saloon-software .collapse.navbar-collapse{
+	justify-content: end;
+}
+.give-digital{
+
+}
+.collectall{
+    padding: 150px 0px 100px;
+}
+.list-style{
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 34px;
+}
+ul.list-style{
+	padding: 0px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+ul.list-style li{
+	list-style: none;
+	margin-bottom: 25px;
+	position: relative;
+}
+ul.list-style li:before{
+	content: "";
+	width: 16px;
+	height: 15px;
+	background-image: url("../images/arrow.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 10px;
+    left: -40px;
+}
+.bonustips-content{
+	margin-top: 60px;
+}
+.saloon-footer .container-fluid{
+	background-image: url(../images/footer-bg.png);
+    background-size: contain !important;
+	background-position: bottom left !important;
+	background-repeat: no-repeat;
+}
+.Copyright-text p{
+	margin-bottom: 0px;
+}
+.social-icons ul{
+	text-align: right;
+}
+.form-wrapper-holder{
+    margin-bottom: 80px;
+}
+.saloon-footer{
+	padding-top: 100px;
+}
+.get-ready h3{
+	color: #FFF;
+	font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 80px;
+}
+.get-ready p{
+	font-size: 25px;
+	line-height: 40px;
+	color: #ffffff;
+}
+.get-ready{
+	padding: 60px;
+}
+.digitalexp{
+    background-image: url(../images/givebgg.png);
+    background-size: cover !important;
+    background-position:top center !important;
+}
+.form-wrapper{
+	border-radius: 20px;
+	background: #FFF;
+	box-shadow: 0px 22px 105.70134735107422px 0px rgba(51, 51, 51, 0.10);
+	padding: 50px;
+}
+.form-wrapper button{
+	margin-top: 30px;
+}
+.form-wrapper .form-control{
+	height: 65px;
+}
+.form-wrapper textarea.form-control{
+	height: 180px;
+}
+.circlebg{
+	background-image: url(../images/circlebg.png);
+    background-size: cover !important;
+    background-position: center !important;
+	background-repeat: no-repeat;
+}
+.game-changer-wrapper.bonustips{
+	background: #FFF4E2;
+	height: 590px;
+}
+.mobileimg{
+	margin-top: -133px;
+}
+.game-changer-wrapper.bonustips{
+	padding-bottom: 0px;
+}
+.landing-thumb{
+	border-radius: 36px;
+	border: 1px solid #DBDBDB;
+	background: #FFF;
+	box-shadow: 0px 8.148148536682129px 6.518518447875977px 0px rgba(0, 0, 0, 0.01);
+	padding: 20px;
+	text-align: center;
+	height: 400px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+	margin-bottom: 40px;
+}
+.landing-thumb h6{
+	font-size: 20px;
+    color: #5E6282;
+    font-weight: 500;
+    margin: 10px 0px;
+    line-height: 30px;
+}
+.landing-thumb img{
+	margin-bottom: 40px;
+	margin-left: -30px;
+}
+.landing-thumb.campaigns img{
+	margin-left: 0px;
+}
+.laptop-img-wrapper{
+    display: inline-flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+}
+.bannerimage-space{
+	margin-top: -500px;
+	position: relative;
+    z-index: 1;
+}
+.laptop-img {
+    width: 850px;
+}
+.navbar-brand{
+	width: 254px;
+	display: inline-block;
+}
+.left-right-space{
+	padding: 0px 80px;
+}
+.ml-auto{
+	margin-left: auto;
+}
+.social-icons ul{
+	margin: 0px;
+	padding: 0px;
+}
+.social-icons ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px 5px;
+}
+.social-icons ul li a {
+    color: #000000;
+    font-size: 20px;
+	width: 54px;
+	height: 54px;
+	display: inline-flex;
+    align-items: center;
+    justify-content: center;
+	border-radius: 50px;
+    box-shadow: 0px 0px 10px #ddd;
+}
+.automate-payments.walk-ins-list{
+	padding-left: 40px;
+}
+.Copyright-text{
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+.navbar-nav.me-auto.mb-2.mb-md-0{
+	align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.nav-link{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	color: #000000;
+	margin: 0px 30px;
+}
+.social-icons{
+	margin-right: 30px;
+}
+.btn{
+	background: #F51E52;
+	border-color: #F51E52;
+	border-radius: 30px;
+	width: 171px;
+	font-size: 20px; 
+	padding: 15px 10px;
+}
+.btn i{
+	margin-left:5px;
+	display: inline-block;
+}
+.btn i img{
+	width: 25px;
+}
+.phnobtn{
+	width: 220px;
+}
+.btn.phnobtn{
+	border: 1px solid #000000;
+	background: #ffffff;
+	color: #000000;
+	font-weight: 700;
+	margin-right: 10px;
+}
+.banner-quotes{
+	display: flex;
+}
+.quotes-icon{
+    flex-shrink: 0;
+}
+.banner-quotes p{
+	padding-left: 20px;
+}
+.laptop-img img{
+	max-width: 100%;
+}
+.laptop-img{
+	text-align: right;
+}
+.image100 img{
+	width: 100%;
+}
+.banner-section-wrapper{
+	background-image: url("../images/springbg.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+.banner-section-wrapper:before{
+	content: "";
+	position: absolute;
+	width: 573px;
+	height: 587px;
+	background-image: url("../images/light.png");
+	z-index: -1;
+}
+.easy-saloon-software .banner-section-wrapper{
+	background-image: url("../images/pinkglosstwo.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+.easy-saloon-software .banner-section-wrapper:before{
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 1200px;
+	background-image: url("../images/growngloss.png");
+	z-index: -1;
+	background-repeat: no-repeat;
+}
+.digital-marketing-thumbnail{
+	border-radius: 24px;
+	border: 1px solid #DBDBDB;
+	background: #FFF;
+	height: 420px;
+	text-align: center;
+	padding: 40px 20px;
+}
+.digital-marketing-thumbnail img{
+	width: 100%;
+}
+.digital-marketing-thumbnail h6{
+	color: #000;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 600;
+}
+.digital-marketing-thumbnail.thumb-odd h6{
+	margin-bottom: 40px;
+}
+.digital-marketing-thumbnail.thumb-even h6{
+	margin-top: 40px;
+}
+.margin-top-minus100 {
+    margin-top: -100px;
+}
+.game-changer-wrapper.diet-plan.forever-session{
+	padding-bottom: 100px;
+}
+.game-changer-wrapper.diet-plan.trainer-login{
+	padding: 60px 0px 0px;
+}
+.banner-wrapper h1{
+	font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+	font-size: 70px;
+	font-weight: 600;
+	margin-top: 60px;
+	color: #02073E;
+}
+.banner-wrapper h1 b{
+	font-weight: 700;
+}
+.banner-buttons{
+	margin-top: 40px;
+}
+.button-group.banner-buttons .btn.phnobtn{
+	width: auto;
+	border: 1px solid #1562D9;
+    background: #ffffff;
+    color: #1562D9;
+    padding: 15px 35px;
+    font-weight: 500;
+    margin-left: 15px;
+    margin-right: 0px;
+}
+.our-clients.marketing-sec.attendance-sec h2{
+	font-size: 230px;
+	text-shadow: 0 0 3px #FFDBCB, 0 0 5px #FFDBCB;
+}
+.our-clients.marketing-sec.attendance-sec{
+	background: linear-gradient(180deg, rgba(205, 255, 236, 0) 0%, #CDFFEC 100%);
+	position: relative;
+	overflow: hidden;
+}
+.our-clients.marketing-sec.attendance-sec:before{
+	content: "";
+	width: 731px;
+	height: 1079px;
+	position: absolute;
+	background-image: url("../images/blackshadow.png");
+	left: 0;
+    z-index: -1;
+	bottom: -330px;
+}
+.our-clients.marketing-sec.attendance-sec:after{
+	content: "";
+    width: 218px;
+    height: 266px;
+    background-image: url(../images/spring2.png);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+	z-index: -1;
+}
+.btn.btn-primary.getfree-btn{
+    width: auto;
+    padding: 15px 40px;
+}
+.prevent-access{
+	margin-top: 100px;
+}
+.game-changer-wrapper.workout-plan.retain-clients.prevent-access .row{
+	align-items: end;
+}
+.were-excited {
+    display: flex;
+    margin-top: 100px;
+}
+.were-excited p{
+	font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+.recommended-for{
+	background: #FFF4E2;
+	padding: 100px 0px;
+}
+.banner-wrapper{
+	background-position: bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+	background-position: bottom center;
+}
+.banner-wrapper.layers-top{
+	background-position: top center;
+}
+.banner-wrapper.client-management-banner h1{
+	font-weight: 600;
+}
+.banner-section-wrapper.client-management-banner-wrapper{
+	background-image: url(../images/dumble-bg.png);
+}
+.banner-section-wrapper.client-management-banner-wrapper h1{
+	font-weight: 600;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.banner-section-wrapper.client-management-banner-wrapper{
+	position: relative;
+}
+.banner-section-wrapper.client-management-banner-wrapper:before{
+	content: "";
+	position: absolute;
+	left: 0px;
+	background-image: url(../images/spring.png);
+	background-repeat: no-repeat;
+	bottom: -275px;
+}
+.game-changer-wrapper.workout-plan.retain-clients.prevent-access{
+	margin-top: 0px;
+}
+.our-clients.marketing-sec.keep-tabs.today-training{
+	padding-bottom: 60px;
+}
+.our-clients h2{
+	font-size: 242px;
+	color: #ffffff;
+	text-shadow: 0 0 3px #FFEBC9, 0 0 5px #FFEBC9;
+	font-weight: 700;
+	text-align: center;
+}
+.our-clients{
+	background: linear-gradient(180deg, rgba(255, 241, 218, 0) 0%, #FFF1DA 100%);
+	padding-bottom: 0px;
+}
+.our-clients-logos ul{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	flex-wrap: wrap;
+}
+.our-clients-logos ul li{
+	list-style: none;
+	display: inline-block;
+	width: 15%;
+    text-align: center;
+	margin-bottom: 40px;
+}
+.our-clients-logos ul li img{
+	width: 100%;
+	filter: grayscale(100%);
+}
+.our-clients-logos ul li .client-country img{
+	width: auto;
+	filter: grayscale(0%);
+}
+.our-clients-logos ul.spacetopsixty{
+	margin-top: 60px;
+}
+.game-changer-wrapper{
+	padding: 0px 0px 100px;
+}
+.game-changer-wrapper h2{
+	text-align: center;
+	font-size: 175px;
+	color: #ffffff;
+	text-shadow: 0 0 3px #fee7fb, 0 0 5px #fee7fb;
+	font-weight: 700;
+}
+.gamebox{
+	background-color: #eaf7ff;
+    padding: 50px 20px;
+    text-align: left;
+    border-radius: 47px;
+    height: 428px;
+}
+.gamebox h3{
+	font-weight: 600;
+	font-size: 28px;
+    margin-top: 20px;
+}
+.gamebox p{
+	font-size: 22px;
+	line-height: 32px;
+	font-weight: 400;
+	margin-top: 20px;
+}
+.game-icon{
+	margin-top: 30px;
+}
+.spacetop130{
+	margin-top: 130px;
+}
+.margintop80{
+	margin-top: 80px;
+}
+.margintop40{
+	margin-top: 40px;
+}
+.spacetop190{
+	margin-top: 190px;
+}
+.gamechanger-title{
+	margin-bottom: -100px;
+}
+.game-changer-wrapper .payment-title{
+	font-size: 90px;
+	line-height: 120px;
+	color: #000000;
+	font-weight: 700;
+	font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+	margin-bottom: 30px;
+}
+.margin-top-100{
+	margin-top: 100px;
+}
+.automate-payments p{
+	font-size: 25px;
+	color: #02073E;
+}
+.qrcodeimg{
+	margin-top: 40px;
+}
+.automate-payments{
+	padding-left:30px;
+}
+.grapic{
+	margin-top: 40px;
+}
+.game-changer-wrapper{
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: 300px;
+}
+.try-it-out{
+	font-weight: 500;
+	font-size: 25px;
+	color: #343434;
+	line-height: 40px;
+	text-align: center;
+    margin-top: 60px;
+}
+.try-it-out a{
+	font-size: 30px;
+	font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    display: block;
+}
+.we-fitin-section{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffdfe7+0,ffffff+100 */
+background: #ffdfe7; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffdfe7 0%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ffdfe7 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ffdfe7 0%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdfe7', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+padding: 100px 0px 300px;
+position: relative;
+}
+.we-fitin-section:before{
+	background-image: url("../images/blue-shape.png");
+	content: "";
+	position: absolute;
+	width: 303px;
+	height: 544px;
+	left: 0px;
+	z-index: 1;
+	bottom: 0px;
+}
+.we-fitin-section h2{
+	font-size: 60px;
+	line-height: 76px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 80px;
+}
+.polygon{
+	background-image:url("../images/polygon.png");
+	background-repeat: no-repeat;
+    text-align: center;
+    background-position: center top;
+    height: 312px;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.polygon h4{
+	margin-bottom: 0px;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 30px;
+	margin-top: 30px;
+}
+.feature-section-wrapper.more-features.blue-shadow .thumbnail-box{
+	background-image: url(../images/blue-shadow.png);
+}
+.feature-section-wrapper.more-features.blue-shadow .thumbnail-box .thumbnail-icon{
+	width: 180px;
+    margin: auto;
+}
+.feature-section-wrapper.more-features.blue-shadow .thumbnail-box .thumbnail-icon img{
+	width: 100%;
+}
+.feature-section-wrapper.more-features.blue-shadow.purple-shadow .thumbnail-box .thumbnail-icon{
+	width: auto;
+}
+.feature-section-wrapper.more-features.blue-shadow.purple-shadow .thumbnail-box .thumbnail-icon img{
+	width: auto;
+}
+.polygon-icon{
+	height: 182px;
+}
+.polygon.dance-studio img {
+    margin-top: -20px;
+}
+.we-fitin-section .row{
+    justify-content: center;
+}
+.getting-clients-section ul li{
+	list-style: auto;
+	font-size: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+.getting-clients-section{
+	background-color: #1562D9;
+	padding: 100px 0px;
+	position: relative;
+}
+.getting-clients-section h3{
+	font-size: 60px;
+	line-height: 82px;
+	font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 40px;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+.more-features-reporting b{
+    font-size: 22px;
+    margin-bottom: 10px;
+    display: block;
+}
+.follow-img img{
+	width: 100%;
+}
+.follow-img {
+    position: absolute;
+    top: -125px;
+}
+.gym-image img{ 
+	width: 100%;
+}
+.col-md-6.gym-image-wrapper{
+	padding: 0px;
+}
+.automate-gym .left-right-space{
+	padding-left: 0px;
+}
+.intro h2,.intro h3{
+	font-size: 50px;
+	color: #343434;
+	font-weight: 700;
+	margin-bottom: 40px;
+}
+.intro p{
+	font-size: 20px;
+    margin-bottom: 30px;
+}
+.glossy-title{
+	text-align: center;
+    font-size: 145px;
+    color: #ffffff;
+    text-shadow: 0 0 3px #fee7fb, 0 0 5px #fee7fb;
+    font-weight: 700;
+}
+.clients-say-section .glossy-title{
+	color: #2B2B2B;
+	text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+	font-size: 200px;
+}
+.automate-gym .intro{
+	padding-top: 150px;
+}
+
+.intro ul li{
+	list-style: none;
+	font-size: 22px;
+    margin-bottom: 30px;
+    position: relative;
+}
+.intro ul li:before{
+	content: "";
+	width: 16px;
+	height: 15px;
+	background-image: url("../images/arrow.png");
+	background-repeat: no-repeat;
+	position: absolute;
+    top: 10px;
+    left: -30px;
+}
+.laptop-image img{
+	width: 100%;
+}
+.corporate-level-section{
+	background-image: url("../images/subscribe-section-bg.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+    background-size: cover;
+    padding: 50px 0px;
+}
+.thumbnail-box h6{
+	font-weight: 700;
+	font-size: 35px;
+	color: #343434;
+	margin: 25px 0px;
+}
+.thumbnail-box p{
+	color: #343434;
+	font-size: 22px;
+	line-height: 32px;
+	color: #343434;
+}
+.thumbnail-box{
+	text-align: center;
+	background-image: url("../images/blur-bg.png");
+	background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.section-title{
+    font-size: 52px;
+    line-height: 76px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.game-changer-wrapper h2{
+    text-align: center;
+    font-size: 175px;
+    color: #ffffff;
+    text-shadow: 0 0 3px #fee7fb, 0 0 5px #fee7fb;
+    font-weight: 700;
+}
+.feature-section-wrapper .glossy-title{
+	font-size: 200px;
+	line-height: 1.2em;
+}
+.feature-section-wrapper .section-title{
+	margin-top: -100px;
+}
+.feature-section-wrapper{
+	background: linear-gradient(180deg, rgba(255, 241, 218, 0) 0%, #ffe3b2 100%);
+	padding: 70px 0px
+}
+.recommended-box{
+	border-radius: 10px;
+	overflow: hidden;
+	border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+.recommended-for.morebusiness .recommended-box{
+	height: 435px;
+}
+.retrain-more{
+	padding: 100px 0px;
+}
+.retrain-more .recommended-box{
+	border-radius: 45px;
+	background: #F5F5F5;
+	height: auto;
+	padding-top: 40px;
+	height: 495px;
+	position: relative;
+}
+.client-refferal-icon{
+	position: absolute;
+	bottom: 0px;
+	top: auto;
+}
+.retrain-more .recommended-box h6{
+	background-color: transparent;
+}
+.retrain-more.automate-management{
+	background: #F4F4F4;
+}
+.retrain-more.automate-management .recommended-box{
+	background-color: transparent;
+	border: 0px;
+	text-align: center;
+	border-radius: 0px;
+	height: auto;
+	padding: 0px 30px;
+	overflow: visible;
+	margin-bottom: 100px
+}
+.retrain-more.automate-management .recommended-box p{
+	padding-bottom: 0px;
+	line-height: 35px;
+}
+.recommended-box.billingbg{
+	position: relative;
+}
+.recommended-box.billingbg:before{
+    background-image: url(../images/billingbg.png);
+}
+.recommended-box.reportbg:before{
+    background-image: url(../images/reportbg.png);
+}
+.recommended-box.accessbg:before{
+    background-image: url(../images/accessbg.png);
+}
+.recommended-box.feedbackbg:before{
+    background-image: url(../images/feedback.png);
+}
+.recommended-box.feedbackbg:before{
+    background-image: url(../images/feedback.png);
+}
+.recommended-box.im:before{
+    background-image: url(../images/imbg.png);
+}
+.recommended-box.marketingbg:before{
+    background-image: url(../images/marketingbg.png);
+}
+.recommended-box.retainbg:before{
+    background-image: url(../images/retainbg.png);
+}
+.recommended-box.stockbgg:before{
+    background-image: url(../images/stockbgg.png);
+}
+.recommended-box.staffbgg:before{
+    background-image: url(../images/staffbg.png);
+}
+.automate-management .recommended-box:before{
+	content: "";
+    position: absolute;
+    width: 100%;
+    height: 210px;
+    left: 0;
+    right: 0;
+    bottom: -30px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.automate-box{
+	background-color: #ffffff;
+	border-radius: 45px;
+    height: 580px;
+    position: relative;
+	padding: 40px 0px;
+}
+.section-title.review-title{
+	font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+	text-align: left;
+}
+.retrain-more .recommended-box p{
+	background-color: transparent;
+	color: #000;
+	font-size: 20px;
+	line-height: 40px;
+}
+.tescomma{
+	width: 125px;
+	margin-bottom: 40px;
+}
+.star img{
+	width: auto !important;
+}
+.retrain-more .recommended-box h6{
+	font-size: 30px;
+}
+.recommended-box h6{
+	background-color: #ffffff;
+	margin: 0px;
+    padding: 25px;
+	color: #0F2137;
+	font-size: 25px;
+	font-weight: 600;
+}
+.recommended-box p{
+	background-color: #ffffff;
+	margin: 0px;
+    padding: 0px 25px 25px;
+	color: #0F2137;
+}
+
+.clients-say-section{
+	background-color: #2B2B2B;
+	padding: 120px 0px 80px;
+}
+.clients-say-section h2{
+	color: #ffffff;
+	margin-bottom: 0px;
+	z-index: 2;
+    position: relative;
+}
+.teswrap{
+	position: relative;
+	padding: 40px 10px 0px;
+}
+.clients-say-section{
+	position: relative;
+}
+.clients-say-section:before{
+	content: "";
+	width: 478px;
+    height: 400px;
+	background-image: url("../images/tes.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 0px;
+    top: 0px;
+	background-size: 100%;
+	z-index: 1;
+}
+.teswrap p{
+	font-style: italic;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 40px;
+	color: #ffffff;
+}
+.teswrap i{
+	font-style: italic;
+	font-size: 18px;
+	color: #ffffff;
+}
+.owl-nav{
+	display: none;
+}
+.owl-dot span{
+	width: 20px;
+	height: 20px;
+	background: #ed8193;
+	border-radius: 114px;
+	display: inline-block;
+	margin:0px 5px;
+}
+.owl-dot.active span{
+	width: 30px;
+	height: 30px;
+	background: #F51E52;
+	border-radius: 114px;
+	display: inline-block;
+}
+.owl-dots{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+.blue-footer{
+	background-color: #ffffff;
+	padding: 100px 0px 0px;
+}
+.blue-footer ul li a{
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 28px;
+	color: #666666;
+	text-decoration: none;
+}
+.blue-footer ul li a:hover{
+	color:#000000;
+}
+.blue-footer ul li{
+	list-style: none;
+	margin-bottom: 10px;
+	color: #666666;
+}
+.padding-bottom-40{
+	padding-bottom: 40px;
+}
+.Copyright-text{
+	color: #000;
+	font-weight: 500;
+}
+.blue-footer ul li i{
+    margin-left: 0px;
+}
+.blue-footer ul{
+	margin: 0px;
+	padding: 0px;
+}
+.blue-footer h5{
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 36px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+.social-links ul li{
+	display: inline-block;
+	margin: 0px 20px 20px 0px;
+}
+.social-links ul li a{
+	font-size: 28px;
+}
+.social-links{
+	margin-top: 30px;
+}
+.newsletter-wrapper h4{
+	font-weight: 600;
+	font-size: 26px;
+	color: #000000;
+	line-height: 1.5em;
+}
+.newsletter-wrapper form input{
+	width: 100%;
+	height: 68px;
+	border-radius: 10px;
+	margin-bottom: 25px;
+	border: 0px;
+	padding: 10px 20px;
+}
+.newsletter-wrapper form [type=submit]{
+	background: #FFD07E;
+	color: #000000;
+	font-size: 18px;
+}
+.newsletter-wrapper h4{
+	margin-bottom: 40px;
+}
+.blue-footer .countries-flag ul li a i{
+	margin-left: 5px;
+}
+.reviewcontent h5{
+	color: #000;
+	font-size: 30px;
+	margin-top: 10px;
+	font-weight: 600;
+}
+.review-section-wrapper{
+	padding: 100px 0px;
+	background-image:url("../images/glossbg.png");
+}
+.review-section-wrapper .item {
+    background-color: #ffffff;
+    padding: 30px;
+}
+.reviewcontent p{
+	color: #000000;
+	font-size: 25px;
+	line-height: 40px;
+	margin-top: 40px;
+}
+.our-clients.billing-payment{
+	background: linear-gradient(180deg, rgba(255, 241, 218, 0) 0%, #EAF7FF 100%);
+	padding-bottom: 0px;
+	height: 1030px;
+}
+.our-clients.billing-payment h2{
+	text-shadow: 0 0 3px #CBEBFF, 0 0 5px #CBEBFF;
+	text-align: center;
+    line-height: 185px;
+}
+.our-clients.billing-payment h2{
+    font-size: 200px;
+}
+.our-clients.billing-payment{
+	text-align: center;
+}
+.our-clients.billing-payment p{
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 49px;
+}
+.our-clients.billing-payment .intro{
+    margin-top: -200px;
+}
+.billing-image{
+    margin-top: -65px;
+}
+.game-changer-wrapper.workout-plan{
+    padding-top: 170px;
+	background-position: top right;
+	position: relative;
+	padding-bottom: 0px;
+}
+.game-changer-wrapper.workout-plan h2{
+	text-align: right;
+	line-height: 1em;
+	text-shadow: 0 0 3px #FFD07E, 0 0 5px #FFD07E;
+}
+.game-changer-wrapper.workout-plan:before{
+	content: "";
+	width: 255px;
+	height: 222px;
+	background-image: url("../images/spiral.png");
+	position: absolute;
+	right: 0px;
+}
+.game-changer-wrapper.workout-plan .grapic img{
+	width: 100%;
+}
+
+.game-changer-wrapper.workout-plan .grapic{
+	margin-top: 300px;
+}
+.game-changer-wrapper.workout-plan .board{
+	margin-bottom: 30px;
+    margin-top: -190px;
+}
+
+.game-changer-wrapper.workout-plan .gamebox{
+	background-color: transparent;
+    border: 0px;
+    text-align: left;
+    padding: 0px 100px 0px 0px;
+	height: auto;
+}
+.game-changer-wrapper.workout-plan .gamechanger-title {
+    margin-bottom: 0px;
+}
+.game-changer-wrapper.diet-plan .grapic img{
+	width: 100%;
+}
+.game-changer-wrapper.diet-plan{
+	background-image:none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.game-changer-wrapper.diet-plan .gamechanger-title {
+    margin-bottom: 0px;
+}
+.game-changer-wrapper.diet-plan .gamebox{
+    background-color: transparent;
+    border: 0px;
+    text-align: left;
+    padding: 0px 100px 0px 0px;
+	height: auto;
+}
+.feature-section-wrapper.more-features{
+	background: transparent;
+	padding-bottom: 80px;
+	padding-top:0px;
+}
+.feature-section-wrapper.more-features .thumbnail-box{
+	background-image: url(../images/pinkshine.png);
+}
+.banner-section-wrapper.marketing-banner-wrapper{
+	background-image: url(../images/Decore.png);
+}
+.our-clients.marketing-sec .gamebox{
+	background-color: transparent;
+    border: 0px;
+    text-align: left;
+    padding: 0px 100px 0px 0px;
+	height: auto;
+}
+.our-clients.marketing-sec .grapic img{
+	width: 100%;
+}
+.our-clients.marketing-sec{
+	background: linear-gradient(180deg, rgba(255, 241, 218, 0) 0%, #FFC2AE 100%);
+	position: relative;
+}
+.our-clients.marketing-sec:before{
+	content: "";
+	width: 218px;
+	height: 266px;
+	background-image: url("../images/spring2.png");
+	position: absolute;
+    right: 0;
+    bottom: 0;
+	z-index: -1;
+}
+.our-clients.marketing-sec h2{
+	text-align: center;
+	margin-bottom: -160px;
+}
+.our-clients.marketing-sec .row{
+	align-items: center;
+}
+.banner-section-wrapper.marketing-banner-wrapper .banner-wrapper{
+	padding-bottom: 0px;
+}
+.game-changer-wrapper.workout-plan.retain-clients .grapic{
+	margin-top: 0px;
+}
+.game-changer-wrapper.workout-plan.retain-clients{
+	background: none;
+	padding-top: 100px;
+}
+.game-changer-wrapper.workout-plan.retain-clients:before{
+	display: none;
+}
+.game-changer-wrapper.workout-plan.retain-clients .gamebox h3{
+	margin-bottom: 30px
+}
+.game-changer-wrapper.workout-plan.retain-clients .row{
+	align-items: center;
+}
+.sms-refral-section{
+	padding-top: 300px;
+	padding-bottom: 150px;
+}
+.sms-refral-section .gamebox{
+	background-color: #CDFFEC;
+	border-radius: 80px;
+	min-height: auto;
+    height: auto;
+}
+.sms-refral-section .game-icon{
+	margin-top: 0px;
+}
+.sms-refral-section .game-icon {
+    margin-top: -230px;
+    margin-bottom: 30px;
+}
+.automate-img img{
+	width: 100%;
+}
+.automate-gym-wrapper .section-title{
+	text-align: left;
+	margin-bottom: 40px;
+}
+.section-content p{
+	font-size: 22px;
+	margin-bottom: 40px;
+}
+.automate-gym-wrapper {
+    background-image: url(../images/glossleft.png);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: top left;
+	padding: 100px 0px 160px;
+}
+.quick-bookings{
+	margin-top: 100px;
+	transition: all 0.3s ease-in-out 0s;
+}
+.thumbnail-group-section .gamebox{
+	height:auto;
+}
+.thumbnail-group-section .game-icon{
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+.thumbnail-group-section{
+	padding: 120px 0px;
+}
+.thumbnail-group-section .spacetop{
+	margin-top: 50px;
+}
+.thumbnail-group-section .gamebox{
+	border: 1px solid #89B7FF;
+	border-radius: 80px;
+	height: 520px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.our-clients.billing-payment.payment-history .intro{
+	margin-top: 0px;
+}
+.our-clients.billing-payment.payment-history{
+	background: none;
+	padding-bottom: 100px;
+    height: auto;
+}
+.our-clients.marketing-sec.attendance-sec.reporting-sec h2 {
+    text-align: center;
+    margin-bottom: -260px;
+}
+.our-clients.marketing-sec.attendance-sec.reporting-sec{
+	position: relative;
+	background: linear-gradient(180deg, rgba(205, 255, 236, 0) 0%, #CBEBFF 100%);
+}
+.our-clients.marketing-sec.attendance-sec.reporting-sec:before{
+	content: "";
+    position: absolute;
+    width: 288px;
+    height: 416px;
+    background-image: url(../images/bubble.png);
+    left: 0px;
+    top: 100px;
+    z-index: -1;
+}
+.our-clients.marketing-sec.attendance-sec.reporting-sec:after{
+	display: none;
+}
+.game-changer-wrapper.workout-plan.retain-clients.instant-access{
+	position: relative;
+}
+.our-clients.marketing-sec.keep-tabs{
+	background: none;
+    text-align: center;
+}
+.our-clients.marketing-sec.keep-tabs .gamebox{
+	text-align: center;
+    width: 65%;
+    margin: auto;
+	padding: 0px;
+}
+.banner-section-wrapper.client-management-banner-wrapper.booking-personal-bnn:before{
+	display: none;
+}
+.banner-section-wrapper.client-management-banner-wrapper.booking-personal-bnn .banner-wrapper{
+	padding-bottom: 100px;
+}
+.feature-section-wrapper.more-features.blue-shadow.purple-shadow .thumbnail-box{
+	background-image: url(../images/purple-sadow.png);
+}
+.our-clients.marketing-sec.attendance-sec.employee-sec h2{
+	text-shadow: 0 0 3px #CBEBFF, 0 0 5px #CBEBFF;
+	font-size: 200px;
+	margin-bottom: -100px;
+}
+.banner-section-wrapper.client-management-banner-wrapper.empbnn-wrapper:before{
+	display: none;
+}
+.banner-section-wrapper.client-management-banner-wrapper.empbnn-wrapper .banner-wrapper{
+	padding-bottom: 100px;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g{
+	padding-top: 100px;
+    padding-bottom: 0;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g:before{
+	display: none;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g .gamebox{
+	width: 90%;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g h5{
+	font-weight: 700;
+    font-size: 35px;
+    color: #343434;
+    margin: 25px 0px;
+}
+.freedemo-btn{
+	justify-content: end;
+}
+.tryfree{
+	margin-top: 40px;
+}
+.banner-section-wrapper.client-management-banner-wrapper.landingpage-banner:before{
+	display: none;
+}
+.our-clients.think-digital h2{
+	text-align: center;
+	line-height: 1em;
+	font-size: 150px;
+}
+.our-clients.think-digital .intro{
+	text-align: center;
+	margin-top: -100px;
+}
+.sms-refral-section{
+	background: linear-gradient(180deg, rgba(218, 255, 222, 0) 0%, #DBFFDA 100%);
+}
+.gamebox.referral-programs{
+    margin-top: 100px;
+}
+.our-clients.think-digital .gamebox{
+	height: auto;
+}
+.our-clients.think-digital .gamebox .game-icon{
+	margin: 0px;
+}
+.sp-bottom{
+	margin-bottom: 40px;
+}
+.sp-top{
+	margin-top: 40px;
+}
+.our-clients.think-digital .spacetop{
+	margin-top:60px;
+}
+.think-digital .game-icon img {
+    width: 270px;
+}
+.our-clients.think-digital .gamebox{
+	background-color: #ffffff;
+}
+.our-clients.think-digital .digital-marketing-title{
+	margin-bottom: 100px;
+}
+.our-clients.think-digital .spacetop .game-icon{
+	margin-top: -150px;
+}
+.our-clients.think-digital .spacebootom .game-icon{
+	margin-bottom: -150px;
+}
+.book-free .btn{
+    width: 230px;
+}
+.our-clients.think-digital{
+	position: relative;
+	padding-bottom: 100px;
+}
+.our-clients.think-digital:before{
+	content: "";
+	width: 401px;
+	height: 129px;
+	position: absolute;
+	background-image: url(../images/dots.png);
+	bottom: -65px;
+}
+.page-target .grapic img{
+	width: 100%;
+}
+.game-changer-wrapper.page-target h2{
+	font-size: 90px;
+    text-align: left;
+    margin: 40px 0px;
+}
+.game-changer-wrapper.page-target .gamechanger-title{
+	margin-bottom: 0px;
+}
+.game-changer-wrapper.page-target .gamebox{
+	background-color: transparent;
+	height: auto;
+	margin-bottom: 60px;
+}
+.page-target .intro h3{
+	margin-bottom: 0px;
+	text-align: center;
+}
+.game-changer-wrapper.page-target{
+	padding-top: 150px;
+}
+.game-changer-wrapper.page-target .gamebox .board{
+	margin: auto auto 30px;
+}
+.gamebox.no-box{
+	background-color: transparent;
+    border: 0px;
+    text-align: left;
+    padding: 0px 100px 0px 0px;
+    height: auto;
+}
+.game-changer-wrapper.give-digital .grapic{
+    margin-top: 0px;
+}
+.game-changer-wrapper.give-digital{
+	justify-content: center;
+}
+.game-changer-wrapper.give-digital h3{
+	font-weight: 700;
+	font-size: 60px;
+	line-height: 82px;
+}
+.game-changer-wrapper.give-digital .gamebox ol li{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 50px;
+}
+.game-changer-wrapper.give-digital .gamebox ol{
+	margin-top: 60px;
+}
+.game-changer-wrapper.give-digital .grapic img{
+	width: 100%;
+}
+.game-changer-wrapper.give-digital .row{
+	justify-content: center;
+    align-items: center;
+}
+.game-changer-wrapper.give-digital{
+padding: 100px 0px;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fff2d5+0,ffffff+100 */
+background: #fff2d5; /* Old browsers */
+background: -moz-linear-gradient(top,  #fff2d5 0%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fff2d5 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fff2d5 0%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+.game-changer-wrapper.page-target .col-lg-6{
+	position: relative;
+}
+.game-changer-wrapper.page-target .automate-payments{
+	bottom: 0px;
+    position: absolute;
+}
+.game-changer-wrapper.page-target{
+	padding-bottom: 0px;
+}
+.actionspace{
+	padding-bottom: 100px;
+}
+.getting-clients-section ol li{
+	list-style: auto;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+.getting-clients-section.billboard-sec{
+	padding: 100px 0px 0px;
+}
+.off-markit{
+	padding-bottom: 60px;
+}
+.billbord-image{
+	position: relative;
+}
+.billbord-image .follow-img{
+
+}
+.getting-clients-section.billboard-sec .left-right-space{
+	padding-right: 0px;
+}
+.bill-img img{
+	width: 100%;
+}
+.col-md-6.billbord-image{
+	padding-right: 0px;
+}
+.getting-clients-section.billboard-sec{
+	position: relative;
+}
+.getting-clients-section.billboard-sec:before{
+	content: "";
+	width: 302px;
+	height: 495px;
+	position: absolute;
+	background-image: url(../images/qrcode.png);
+	display: none;
+}
+.chalo-sec{
+	position: relative;
+}
+.chalo-sec:before{
+	content: "";
+	position: absolute;
+	width: 819px;
+	height: 633px;
+	background-image: url(../images/chalo.png);
+	position: absolute;
+	right: 0px;
+	display: none;
+}
+.chalo-img img{
+	width: 100%;
+}
+.subscribe-section .newsletter-wrapper h4{
+	color: #000000;
+	font-weight: 600;
+	font-size: 33px;
+	line-height: 54px;
+	text-align: center;
+}
+.subscribe-section{
+	padding: 100px 0px 0px 0px;
+}
+.subscribe-section .newsletter-wrapper form{
+    display: flex;
+	width: 50%;
+    margin: auto;
+}
+.subscribe-section .newsletter-wrapper form input[type="email"]{
+	margin-bottom: 0px;
+	background-color: #F5F5F5;
+	margin-right: 30px;
+}
+.subscribe-section .newsletter-wrapper form [type=submit]{
+	width: 180px;
+	background-color: #1562D9;
+	color: #ffffff;
+}
+.pinkfooter-social ul li{
+	list-style: none;
+	display: inline-block;
+}
+.pink-footer{
+	text-align: center;
+}
+.pink-footer{
+	background-image: url("images/footer-pink.pmg");
+}
+.billing-features .thumbnail-icon{
+	width: auto;
+	margin: auto;
+}
+.billing-features .thumbnail-icon img{
+	width: 100%;
+}
+.employe-feature .thumbnail-box{
+	margin-bottom: 100px;
+}
+.employe-feature .thumbnail-box.spacetop{
+	margin-top: 50px;
+}
+.banner-section-wrapper.faq-banner-banner .row{
+	align-items: center;
+}
+.banner-section-wrapper.faq-banner-banner .banner-wrapper h1{
+	margin-top: 0px;
+}
+.faq-wrapper-section{
+	padding-bottom: 150px;
+}
+.faq-wrapper-section .accordion-header button{
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 40px;
+}
+.faq-wrapper-section .accordion-body{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+}
+.faq-wrapper-section .accordion-item{
+	border-top: 1px solid #000000;
+	border-radius: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	padding: 40px 0px;
+}
+.accordion-button:focus{
+	box-shadow:none;
+}
+.accordion-button:not(.collapsed){
+	box-shadow: none;
+	background-color: transparent;
+	color: #0d6efd;
+}
+.faq-wrapper-section strong{
+	font-weight: normal;
+}
+.menulink{
+	display: flex;
+	text-decoration: none;
+	color: #000000;
+}
+.menulink .linkicon{
+	flex-shrink: 0;
+}
+.navbar-expand-md .navbar-nav{
+	position: relative;
+}
+.navbar-expand-md .navbar-nav li ul{
+	position: absolute;
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 40px 20px;
+	box-shadow: 0px 0px 10px 0px #f2f2f2f2;
+	width: 1180px;
+    display: flex;
+	flex-wrap: wrap;
+	margin-left: -100px;
+	display: none;
+	z-index: 20;
+}
+.navbar-expand-md .navbar-nav li ul li{
+	list-style: none;
+	width: 380px;
+    margin-bottom: 30px;
+}
+.navbar-expand-md .navbar-nav li:hover ul{
+	display: flex;
+}
+.linkicon{
+	margin-right: 10px;
+}
+.menulink-text{
+	padding-right: 35px;
+}
+.menulink-text h6{
+	font-weight: 500;
+	font-size: 20px;
+}
+.banner-section-wrapper.gym-banner-wrapper:before{
+	display: none;
+}
+.gym-banner-wrapper .banner-wrapper h1{
+	text-align: left;
+	margin-top: 0px;
+}
+.gym-banner-wrapper .gym-banner h6{
+	text-align: left;
+	font-weight: 500;
+	font-size: 30px;
+}
+.gym-banner-wrapper .gym-banner p{
+	font-size: 22px;
+	text-align: left;
+	line-height: 40px;
+	margin-top: 30px;
+}
+.banner-section-wrapper.marketing-banner-wrapper.gym-banner-wrapper .banner-wrapper{
+	padding: 100px 0px 60px;
+}
+.gym-banner-wrapper .gym-banner .btn{
+	width: 250px;
+    margin-top: 40px;
+}
+.biometric-image img{
+	width: 100%;
+}
+.our-clients.biometric-section{
+	background: linear-gradient(180deg, rgba(205, 255, 236, 0) 0%, #CBEBFF 100%);
+	background-position: top;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+	position: relative;
+}
+.our-clients.biometric-section:before{
+	content: "";
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+	height: 100%;
+    background-repeat: no-repeat;
+}
+.our-clients.biometric-section h2 {
+    text-shadow: 0 0 3px #FFDBCB, 0 0 5px #FFDBCB;
+}
+.our-clients.biometric-section .intro p{
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 37px;
+}
+.our-clients.biometric-section .row{
+	align-items: center;
+}
+.our-clients.biometric-section .intro{
+	margin-left: 30px;
+}
+.game-changer-wrapper.workout-plan.boost-productivity .grapic{
+	margin-top: 0px;
+}
+.game-changer-wrapper.workout-plan.boost-productivity .row{
+	align-items: center;
+}
+.game-changer-wrapper.workout-plan.boost-productivity{
+    padding-top: 100px;
+	background-image: none;
+}
+.game-changer-wrapper.workout-plan.boost-productivity:before{
+    top: -120px;
+}
+.game-changer-wrapper.diet-plan.retain-clients .row{
+	align-items: center;
+}
+.game-changer-wrapper.workout-plan.boost-productivity .intro p{
+	font-size: 22px;
+	line-height: 37px;
+}
+.game-changer-wrapper.diet-plan.retain-clients .intro p{
+	font-size: 22px;
+	line-height: 37px;
+}
+.automate-payments {
+    padding-left: 0px;
+}
+.game-changer-wrapper.diet-plan.retain-clients{
+	padding-bottom: 150px;
+	background: linear-gradient(180deg, rgba(203, 235, 255, 0) 0%, #CBEBFF 100%);
+}
+.we-fitin-section.why-dance-studios:before{
+	display: none;
+}
+.we-fitin-section.why-dance-studios{
+	padding: 150px 0px;
+}
+.we-fitin-section.why-dance-studios .polygon h4{
+	margin-top: 10px;
+}
+.we-fitin-section.why-dance-studios .polygon-icon{
+	height: 200px;
+}
+.feature-section-wrapper.more-features.billing-features.pinkbg{
+	background: linear-gradient(180deg, rgba(203, 235, 255, 0) 0%, #F2BBCF 100%);
+}
+.information-text p{
+	font-size: 22px;
+	line-height: 37px;
+}
+.information-text h3{
+	font-size: 50px;
+}
+.feature-section-wrapper.more-features.blue-shadow.purple-shadow{
+	background: linear-gradient(180deg, rgba(205, 255, 236, 0) 0%, #FBE7FF 100%);
+}
+.feature-section-wrapper.more-features.blue-shadow{
+	background: linear-gradient(180deg, rgba(203, 235, 255, 0) 0%, #E8F6FF 100%);
+}
+.polygon-icon.fts img{
+	margin-top: -35px;
+}
+.corporate-level-section .row{
+	align-items: center;
+}
+.automate-gym-wrapper .row{
+	align-items: center;
+}
+.banner-section-wrapper.client-management-banner-wrapper .row{
+	align-items: center;
+}
+.game-changer-wrapper.workout-plan .row{
+	align-items: center;
+}
+.blue-footer .row{
+	justify-content: center;
+}
+.our-clients.marketing-sec.attendance-sec .gamebox.information-text{
+	padding-right: 0px;
+	padding-top: 100px;
+    padding-bottom: 100px;
+}
+.our-clients.marketing-sec.attendance-sec h2{
+	margin-bottom: -100px;
+}
+.our-clients.marketing-sec.keep-tabs.today-training .gamebox{
+	width: 100%;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g h3{
+	margin-bottom: 50px;
+}
+.grapic img{
+	width: 100%;
+}
+.our-clients.marketing-sec.attendance-sec.QR-attendance-section{
+	padding-bottom: 0px;
+}
+.banner-section-wrapper.home-banner .banner-wrapper{
+	background-position: bottom center;
+}
+.our-clients.our-clients-home{
+	margin-top: 0px;
+	padding-bottom: 60px;
+}
+.feature-section-wrapper .thumbnail-icon img{
+	width: 200px;
+	margin: auto;
+}
+.feature-section-wrapper .owl-dot.active span{
+	background: #000000;
+}
+.menulink-text p{
+	font-size: 18px;
+}
+.game-changer-wrapper.automate-payments .gamebox p{
+	font-size: 20px;
+}
+.game-changer-wrapper.automate-payments .gamebox{
+	height: auto;
+	position: relative;
+	padding-bottom: 20px;
+	height: 510px;
+	padding-top: 20px;
+}
+.game-changer-wrapper.automate-payments .game-icon{
+	margin-top: 0px;
+}
+.pink-footer{
+	background-image: url(../images/footer-pink.png);
+	padding-top: 430px;
+    padding-bottom: 50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.phone-number-pink{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 34px;
+	color: #ffffff;
+	text-decoration: none;
+	padding-bottom: 60px;
+}
+.phone-number-pink a{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0px 20px;
+}
+.cpright{
+	color: #ffffff;
+	font-size: 18px;
+}
+.pinkfooter-social ul{
+	padding: 40px 0px;
+}
+.client-country{
+	font-size: 18px;
+	color: #343434;
+	margin-top: 20px;
+}
+.client-country span{
+	margin-left: 10px;
+}
+.client-logo img{
+	width: 100%;
+}
+.teswrap iframe{
+	width: 100%;
+	height: 500px;	
+}
+.circle-wrapper {
+	width:1100px;
+	height:1100px;
+	border-radius:51%;
+	background:transparent;
+	position:relative;
+	margin:auto;
+	border: 2px dashed #000000;
+	background-image: url("../images/easy-graphic.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+ }
+ 
+ .circle{
+	display:block;
+	position:absolute;
+	top:51%;
+	left:51%;
+	width:300px;
+	height:300px;
+	margin:-51px;
+	background:#FFEBC9;
+	border-radius:51%;
+	text-align:center;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 30px;
+ }
+ .circle h6{
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 28px;
+	margin-bottom: 20px;
+ }
+ .circle p{
+	font-size: 16px;
+	line-height: 24px;
+	margin: 0px;
+ }
+ .deg-0 {
+	transform:rotate(-15deg) translate(480px) rotate(-345deg);
+ }
+ .deg-45 {
+	transform:rotate(46deg) translate(425px) rotate(-46deg);
+ }
+ 
+ .deg-90 {
+	transform:rotate(104deg) translate(480px) rotate(-104deg);
+ }
+ 
+ .deg-135 {
+	transform:rotate(152deg) translate(600px) rotate(-152deg);
+ }
+ 
+ .deg-180 {
+	transform:rotate(190deg) translate(700px) rotate(-190deg);
+ }
+ 
+ .deg-225 {
+	transform:rotate(223deg) translate(730px) rotate(-222deg);
+ }
+ 
+ .deg-270{
+	
+	transform: rotate(260deg) translate(695px) rotate(-260deg);
+ }
+ .deg-315{
+	transform: rotate(300deg) translate(595px) rotate(-300deg);
+ }
+ .circle-wrapper-container.we-fitin-section{
+	padding: 120px 0px 300px;
+	background: linear-gradient(180deg, rgba(205, 255, 236, 0) 0%, #FFF6E7 100%);
+ }
+ .circle-wrapper-container.we-fitin-section h2{
+	margin-bottom: 260px;
+ }
+ .circle-wrapper-container.we-fitin-section:before{
+	display: none;
+ }
+ .circle-icon{
+	position: absolute;
+ }
+ .deg-0 .circle-icon{
+	left: -103px;
+ }
+ .deg-45 .circle-icon{
+	top: -65px;
+    left: -35px;
+ }
+ .deg-90 .circle-icon{
+	top: -95px;
+ }
+ .deg-135 .circle-icon{
+	right: -50px;
+    top: -40px;
+ }
+ .deg-180 .circle-icon{
+	right: -108px;
+ }
+ .deg-225 .circle-icon{
+	right: -70px;
+    bottom: -25px;
+ }
+ .deg-270 .circle-icon{
+	bottom: -110px;
+ }
+ .deg-315 .circle-icon{
+	bottom: -48px;
+    left: -48px;
+ }
+ .biometric-image.qrportal img{
+	width: auto;
+ }
+ .we-fitin-section.why-dance-studios.gradiant-reverse{
+	background: linear-gradient(180deg, rgba(255, 241, 218, 0) 0%, #FFDFE7 100%);
+ }
+ .circle-wrapper-container.we-fitin-section.hideon1440{
+	display: block;
+}
+.feature-circle{
+	width: auto;
+    height: 450px;
+    background: #FFEBC9;
+    border-radius: 51%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 50px;
+	margin-bottom: 50px;
+}
+.feature-circle .circle-icon{
+	position: relative;
+	margin-bottom: 30px;
+}
+.feature-circle h6{
+	font-weight: 700;
+    font-size: 25px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+.circles-section-mobile.we-fitin-section{
+	background: none !important;
+	padding: 100px 0px;
+}
+.circles-section-mobile.we-fitin-section:before{
+	display: none;
+}
+.circles-section-mobile.we-fitin-section{
+	display: none;
+}
+.gamebox.appointment{
+	background: #FFEAEF;
+}
+.gamebox.selfcheck{
+	background: #E2F8FF;
+}
+.gamebox.showcase{
+	background: #F0EFFF;
+}
+.gamebox.reviews{
+	background: #FFF9E9;
+}
+.toprated-section{
+	text-align: center;
+}
+.toprated-section h3{
+	font-size: 50px;
+	color: #0F2137;
+}
+.toprated-section p{
+	font-size: 30px;
+}
+.toprated-section{
+    text-align: center;
+}
+.spacetop100{
+	margin-top: 100px;
+}
+.toprated-section h2{
+	font-size: 120px;
+	font-family: 'Tartuffo_TrialBoldBF643371dae156a';
+}
+.spacebottom100{
+	margin-bottom: 100px;
+}
+.start-for-free-section{
+	background: #F51E52;
+	text-align: center;
+	padding: 100px 0px;
+}
+.start-for-free-section p{
+	font-size: 40px;
+	color: #ffffff;
+}
+.start-for-free-section h3{
+	font-size: 80px;
+	font-weight: 500;
+	color: #ffffff;
+	margin-bottom: 40px;
+}
+.start-for-free-section input[type="email"]{
+	height: 100px;
+	border-radius: 98px;
+	font-size: 25px;
+	color: #666;
+	border: 0px;
+	padding: 20px 50px;
+	margin-bottom: 40px;
+}
+.start-for-free-section form {
+    margin-top: 40px;
+	position: relative;
+	width: 60%;
+    margin: auto;
+}
+.start-for-free-section .btn{
+	position: absolute;
+    background-color: #000000;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    height: 80px;
+    right: 10px;
+    border-radius: 100px;
+	border: 0px;
+	font-size: 25px;
+	font-weight: 700;
+	padding: 0px 80px;
+    width: auto;
+}
+.blue-footer{
+	background-image: url("../images/footer-logo.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.modal-body iframe{
+	width: 100%;
+	height: 450px;
+}
+.banner-content-wrapper{
+	margin-bottom: 0px;
+	position: relative;
+    z-index: 5;
+}
+.recommended-for .section-title{
+	margin-bottom: 140px;
+}
+.recommended-for .owl-dots{
+	margin-top: 40px;
+}
+.digital-marketing-thumbnail.thumb-even{
+	margin-top: 60px;
+}
+.landingimage{
+	padding-left: 60px;
+}
+
+@media only screen and (min-width:1920px){
+
+	.automate-payments p{
+		font-size: 30px;
+	}
+	.digital-marketing-thumbnail{
+		height: auto;
+	}
+	.digital-marketing-thumbnail h6{
+		font-size: 30px;
+	}
+	.our-clients.billing-payment h2{
+    	font-size: 242px;
+	}
+	.banner-wrapper h1{
+		font-size: 90px;
+	}
+	.our-clients h2{
+		font-size: 250px;
+	}
+	.container-fluid{
+		width: 1720px;
+	}
+	.gym-banner-wrapper .gym-banner p br{
+		display: none;
+	}
+	.laptop-img {
+		width: 850px;
+		width: auto;
+	}
+}
+@media only screen and (max-width:1440px){
+	.circle-wrapper-container.we-fitin-section.hideon1440{
+		display: none;
+	}
+	.circles-section-mobile.we-fitin-section{
+		display: block;
+	}
+	.game-changer-wrapper.automate-payments .game-icon{
+		position: static;
+	}
+	.game-changer-wrapper.automate-payments .gamebox{
+		padding-bottom: 60px;
+	}
+	.our-clients.marketing-sec.attendance-sec:before{
+		display: none
+	}
+	.our-clients.marketing-sec.attendance-sec h2{
+		font-size: 150px;
+	}
+	.clients-say-section .glossy-title{
+		font-size: 100px;
+	}
+	.banner-wrapper h1{
+		font-size: 60px;
+	}
+	.our-clients h2{
+		font-size: 150px;
+	}
+	.btn.btn-primary.getfree-btn{
+		margin: 20px 0px;
+	}
+	.banner-wrapper{
+		padding-bottom: 0px;
+	}
+	.our-clients-logos ul li{
+		margin: 0px 20px 30px;
+	}
+	.our-clients-logos ul li img{
+		width: 100%;
+	}
+	.btn.phnobtn{
+		margin: 15px 0px;
+	}
+	
+	.navbar.navbar-expand-md .navbar-nav.me-auto.mb-2.mb-md-0{
+		margin: inherit;
+	}
+	.game-changer-wrapper h2{
+		line-height: 1em;
+	}
+	.game-changer-wrapper .payment-title{
+		font-size: 50px;
+		line-height: 66px;
+	}
+	
+	.gamebox{
+		height: auto;
+	}
+	.spacetop190 {
+		margin-top: 60px;
+	}
+	.spacetop130 {
+		margin-top: 60px;
+	}
+	.polygon {
+		background-size: contain;
+	}
+	.polygon-icon img{
+		width: 100%;
+	}
+	.polygon-icon{
+		width: 165px;
+		margin: auto;
+		align-items: center;
+    	display: flex;
+	}
+	.polygon h4{
+		margin-top: 0px;
+		font-size: 20px;
+    	line-height: 25px;
+		margin-top: 10px;
+	}
+	.we-fitin-section{
+		padding-bottom: 150px;
+	}
+	.polygon-icon.fts img{
+		margin-top: 0px;
+	}
+	.we-fitin-section:before{
+		left: -100px;
+	}
+	.getting-clients-section h3{
+		font-size: 50px;
+		line-height: 72px;
+	}
+	.navbar-expand-md .navbar-nav li ul{
+		width: auto;
+	}
+	.menulink-text h6{
+		font-size: 16px;
+	}
+	.menulink-text {
+		padding-right: 0px;
+	}
+	.menulink-text p{
+		font-size: 14px;
+	}
+	.our-clients.billing-payment h2 {
+		font-size: 150px;
+	}
+	.billing-image img{
+		width: 100%;
+	}
+	.our-clients.billing-payment p br{
+		display: none;
+	}
+	.feature-section-wrapper.more-features.blue-shadow.purple-shadow .thumbnail-box .thumbnail-icon img{
+		width: 100%;
+	}
+	.our-clients.think-digital .gamebox h3{
+		font-size: 28px;
+	}
+	.think-digital .game-icon img {
+		width: 100%;
+	}
+	.game-changer-wrapper.page-target h2 {
+		font-size: 60px;
+		margin: 40px 0px;
+	}
+	.game-changer-wrapper.give-digital .gamebox.no-box{
+		padding-right: 0px;
+	}
+	.pink-footer{
+		background-position: top right;
+	}
+	.game-changer-wrapper.automate-payments .gamebox{
+		height: 630px;
+	}
+	.recommended-for.morebusiness .recommended-box {
+		height: 515px;
+	}
+	.retrain-more .recommended-box{
+		height: 570px;
+	}
+	.automate-box{
+		height: 740px;
+	}
+	.laptop-img {
+		width: 700px;
+	}
+	.banner-wrapper h1 {
+		font-size: 50px;
+	}
+	.bannerimage-space{
+		margin-top: -400px;
+	}
+	.recommended-for .section-title {
+		margin-bottom: 50px;
+	}
+	.landing-thumb{
+		height: 500px;
+	}
+	.mobileimg {
+		margin-top: -95px;
+	}
+	.saloon-footer .container-fluid{
+		background-color: #F51E52;
+	}
+}	
+@media only screen and (max-width:1199px){
+
+	.retrain-more .recommended-box{
+		height: 510px;
+	}
+	.game-changer-wrapper.diet-plan .gamebox{
+		padding: 0px;
+	}
+	.game-changer-wrapper.workout-plan .gamebox{
+		padding: 0px;
+	}
+	.left-right-space {
+		padding: 0px 20px;
+	}
+	.navbar-brand{
+		width: 200px;
+	}
+	.navbar-brand img{
+		width: 100%;
+	}
+	.btn{
+		font-size: 16px
+	}
+	.phnobtn {
+		width: auto;
+		padding: 15px 20px;
+	}
+	.section-title br{
+		display: none;
+	}
+	.section-title{
+		font-size: 50px;
+		line-height: 1.2em;
+	}
+	.thumbnail-box h6{
+		font-size: 30px;
+	}
+	.teswrap p{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.follow-img{
+		margin: auto;
+		position: static;
+	}
+	.intro h2, .intro h3{
+		font-size: 50px;
+	}
+	.feature-section-wrapper .glossy-title{
+		font-size: 170px;
+	}
+	.laptop-img img{
+		width: 100%;
+	}
+	.our-clients.billing-payment h2,.game-changer-wrapper h2,.feature-section-wrapper .glossy-title {
+		font-size: 120px;
+		line-height: 1.2em;
+	}
+	.our-clients.marketing-sec.attendance-sec.employee-sec h2{
+		font-size: 150px;
+	}
+	.our-clients.marketing-sec.attendance-sec h2{
+		font-size: 100px;
+		margin-bottom: -50px;
+	}
+	.banner-section-wrapper.marketing-banner-wrapper.billing-page .banner-wrapper{
+		padding-bottom: 100px;
+	}
+	.thumbnail-group-section .gamebox{
+		height: auto;
+		margin-bottom: 40px;
+	}
+	.thumbnail-group-section.billing-page-thumbnail .gamebox h3{
+		font-size: 30px;
+	}
+	.thumbnail-group-section{
+		padding: 80px 0px;
+	}
+	.navbar-expand-md .navbar-nav li ul{
+		padding-bottom: 0px;
+	}
+	.navbar-expand-md .navbar-nav li ul li{
+		width: 100%;
+	}
+	.game-changer-wrapper.automate-payments .gamebox{
+		height: auto;
+	}
+	.recommended-for.morebusiness .recommended-box {
+		height: 535px;
+	}
+	.retrain-more .recommended-box {
+		height: 610px;
+	}
+	.retrain-more .recommended-box h6 {
+		font-size: 25px;
+	}
+	.automate-box {
+		height: 861px;
+	}
+	.start-for-free-section h3{
+		font-size: 70px;
+	}
+	.start-for-free-section form{
+		width: 100%;
+	}
+	.blue-footer{
+		background-size: 700px;
+	}
+}
+@media only screen and (max-width:991px){
+
+	.game-changer-wrapper.automate-payments .gamebox{
+		margin-bottom: 40px;
+	}
+	.pink-footer{
+		padding-top: 330px;
+	}
+	.bill-img{
+		margin-bottom: 40px;
+	}
+	.newsletter-wrapper br{
+		display: none;
+	}
+	.chalo-img{
+		margin-bottom: 40px;
+	}
+	.subscribe-section {
+		padding: 20px 0px 0px 0px;
+	}
+	.our-clients.think-digital .spacetop {
+		margin-top: 0px;
+    	margin-bottom: 40px;
+	}
+	.game-changer-wrapper.page-target h2{
+		text-align: center;
+	}
+	.our-clients.think-digital h2{
+		font-size: 100px;
+	}
+	.game-changer-wrapper.page-target .automate-payments{
+		position: static;
+	}
+	.actionspace{
+		padding-bottom: 0px;
+	}
+	.think-digital .game-icon img{
+		width: 100px;
+	}
+	.our-clients.think-digital .spacetop .game-icon{
+		margin-top: 0px;
+	}
+	.our-clients.think-digital .spacebootom .game-icon {
+		margin-bottom: 0px;
+	}
+	.feature-section-wrapper.more-features.blue-shadow.bio-metric-page{
+		padding-top: 80px;
+	}
+	.banner-section-wrapper.marketing-banner-wrapper.billing-page .banner-wrapper h1{
+		margin-bottom: 40px;
+	}
+	.our-clients.marketing-sec.attendance-sec:before{
+		display: none;
+	}
+	.nav-link{
+		font-size: 16px;
+		margin: 0px 10px;
+	}
+	.phnobtn{
+		padding: 10px;
+	}
+	.btn{
+		font-size: 14px;
+		padding: 10px 20px;
+		width: auto;
+	}
+	.social-icons {
+		margin-right: 0px;
+	}
+	.btn.phnobtn {
+		margin: 10px 0px;
+	}
+	.gamebox h3{
+		font-size: 28px;
+	}
+	.game-changer-wrapper .payment-title{
+		font-size: 45px;
+		line-height: 60px;
+		margin-top: 40px;
+	}
+	.we-fitin-section:before{
+		left: -180px;
+	}
+	.polygon-icon{
+		width: 115px;
+		height: 130px;
+	}
+	.we-fitin-section{
+		padding-bottom: 0px;
+	}
+	.feature-section-wrapper{
+		padding: 60px 0px;
+	}
+	.thumbnail-icon{
+		width: 125px;
+		margin: auto;
+	}
+	.thumbnail-icon img{
+		width: 100%;
+	}
+	.thumbnail-box h6{
+		font-size: 25px;
+	}
+	.our-clients h2{
+		font-size: 120px;
+	}
+	.game-changer-wrapper h2{
+		font-size: 120px;
+	}
+	.gamechanger-title {
+		margin-bottom: 60px;
+	}
+	.automate-gym-wrapper{
+		padding: 100px 0px 100px;
+	}
+	.intro h2, .intro h3 {
+		font-size: 40px;
+	}
+	.social-links{
+		margin: 30px 0px;
+	}
+	.feature-section-wrapper .glossy-title {
+		font-size: 140px;
+	}
+	.getting-clients-section h3{
+		font-size: 45px;
+		line-height: 62px;
+	}
+	.our-clients.billing-payment h2, .game-changer-wrapper h2, .feature-section-wrapper .glossy-title {
+		font-size: 100px;
+		line-height: 1em;
+	}
+	.billing-image {
+		margin-top: 0px;
+	}
+	.our-clients.billing-payment{
+		height: auto;
+		padding-bottom: 60px;
+	}
+	.game-changer-wrapper.workout-plan{
+		padding-top: 100px;
+	}
+	.game-changer-wrapper.workout-plan .gamebox{
+		padding: 0px;
+	}
+	.information-text p {
+		font-size: 20px;
+		line-height: 35px;
+	}
+	.our-clients.marketing-sec.attendance-sec.employee-sec h2 {
+		font-size: 100px;
+	}
+	.our-clients.marketing-sec.attendance-sec .gamebox.information-text{
+		padding-bottom: 0px;
+	}
+	.banner-section-wrapper.marketing-banner-wrapper.bio-metric-banner .banner-wrapper h1{
+		margin-bottom: 40px;
+	}
+	.our-clients.marketing-sec.attendance-sec.QR-attendance-section {
+		padding-bottom: 80px;
+	}
+	.feature-section-wrapper.more-features.blue-shadow .thumbnail-box .thumbnail-icon{
+		width: 100px;
+	}
+	.col-reverse .row{
+		flex-direction: column-reverse !important;
+	}
+	.automate-payments .grapic{
+		margin-bottom: 40px;
+	}
+	.game-changer-wrapper.diet-plan.retain-clients{
+		padding-bottom: 100px;
+	}
+	.our-clients.biometric-section .intro p,.game-changer-wrapper.workout-plan.boost-productivity .intro p,.game-changer-wrapper.diet-plan.retain-clients .intro p{
+		font-size: 20px;
+    	line-height: 35px;
+	}
+	.biometric-image{
+		width: 80%;
+    	margin: auto auto 40px;
+	}
+	.gym-banner-wrapper .gym-banner p br{
+		display: none;
+	}
+	.our-clients.biometric-section .intro {
+		margin-left: 0px;
+	}
+	.gym-banner-wrapper .gym-banner .btn{
+		margin-bottom: 40px;
+	}
+	.we-fitin-section.why-dance-studios .polygon-icon img{
+		margin-top: -60px;
+	}
+	.we-fitin-section.why-dance-studios .polygon h4{
+		margin-top: -30px;
+	}
+	.we-fitin-section.why-dance-studios {
+		padding: 100px 0px;
+	}
+	.we-fitin-section.why-dance-studios .polygon{
+		height: 200px;
+	}
+	.we-fitin-section.why-dance-studios .polygon-icon{
+		width: 90px;
+	}
+	.we-fitin-section.why-dance-studios .polygon-icon {
+		height: 150px;
+	}
+	.we-fitin-section h2 {
+		font-size: 50px;
+		line-height: 66px;
+	}
+	.game-changer-wrapper.workout-plan.retain-clients.instant-access .grapic{
+		margin-bottom: 0px;
+	}
+	.banner-section-wrapper.gym-banner-wrapper .image100{
+		margin-bottom: 40px;
+	}
+	.game-changer-wrapper.give-digital h3{
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.blue-footer{
+		background-size: 500px;
+	}
+	.blue-footer .col-lg-3.col-md-6{
+		margin-bottom: 40px;
+	}
+	.start-for-free-section h3{
+		font-size: 60px;
+	}
+	.start-for-free-section p{
+		font-size: 30px;
+	}
+	.start-for-free-section input[type="email"]{
+		padding: 20px 50px;
+		height: 80px;
+		font-size: 20px;
+	}
+	.start-for-free-section .btn{
+		height: 70px;
+		font-size: 20px;
+	}
+	.automate-payments p{
+		font-size: 20px;
+		line-height: 40px;
+	}
+	.toprated-section h2{
+		font-size: 80px;
+	}
+	.review-section-wrapper{
+		padding: 100px 0px 0px;
+	}
+	.game-changer-wrapper.automate-payments.margin-top-100{
+		margin-top: 0px;
+	}
+	.toprated-section p {
+		font-size: 20px;
+		line-height: 40px;
+	}
+	.qrcodeimg {
+		margin-bottom: 40px;
+	}
+	.retrain-more .recommended-box{
+		height: auto;
+		margin-bottom: 40px;
+		padding-bottom: 100px;
+	}
+	.section-title {
+		font-size: 40px;
+	}
+	.automate-box {
+		height: auto;
+	}
+	.reviewcontent p{
+		margin-bottom: 40px;
+		font-size: 20px;
+	}
+	.toprated-section h3{
+		font-size: 40px;
+	}
+	.toprated-section.spacetop100{
+		margin-top: 60px;
+		margin-bottom: 60px;
+	}
+	.banner-content-wrapper {
+		margin-bottom: 60px;
+	}
+}
+@media only screen and (max-width:767px){
+
+.banner-content-wrapper{
+	margin-bottom: 0px;
+}
+.modal-body iframe{
+	width: 100%;
+	height: 250px;
+}
+.automate-box{
+	height: auto;
+}
+.retrain-more .recommended-box{
+	height: auto;
+	margin-bottom: 40px;
+	padding-bottom: 60px;
+}
+.game-changer-wrapper.diet-plan.forever-session {
+	padding-bottom: 0px;
+}
+.feature-circle {
+	width: 360px;
+	height: 360px;
+	margin: auto auto 30px;
+	padding: 20px 30px;
+}
+.feature-circle h6{
+	font-size: 20px;
+    margin-bottom: 10px;
+}
+.feature-circle p{
+	font-size: 16px;
+}
+.feature-circle .circle-icon{
+	margin-bottom: 10px;
+}
+.circles-section-mobile.we-fitin-section{
+	padding-bottom: 20px;
+	padding-top: 60px;
+}
+.clients-say-section:before {
+	content: "";
+	width: 278px;
+    height: 250px;
+}
+.teswrap iframe {
+    width: 100%;
+    height: 300px;
+}
+.game-changer-wrapper.workout-plan.retain-clients.instant-access .grapic{
+	margin-bottom: 0px;
+}
+.btn.btn-primary.getfree-btn{
+	margin-bottom: 10px;
+}
+.our-clients.our-clients-home{
+	margin-top: 0px;
+}
+.game-changer-wrapper.workout-plan:before{
+	display: none;
+}
+.we-fitin-section.why-dance-studios .polygon-icon {
+	height: auto;
+	margin: auto;
+	width: 65px;
+}
+.we-fitin-section.why-dance-studios .polygon{
+	padding-top: 20px;
+}
+.we-fitin-section.why-dance-studios .polygon h4 {
+    margin-top: 20px;
+}
+.we-fitin-section.why-dance-studios {
+    padding: 60px 0px;
+}
+.we-fitin-section.why-dance-studios .polygon-icon img {
+    margin-top: 0px;
+}
+.game-changer-wrapper.diet-plan.retain-clients {
+	padding-bottom: 60px;
+}
+.banner-section-wrapper.marketing-banner-wrapper.gym-banner-wrapper .banner-wrapper{
+	padding: 60px 0px;
+	background-image: url(../images/layer.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+.biometric-image{
+	width: 400px;
+	margin: auto auto 40px;
+}
+.game-changer-wrapper.diet-plan.retain-clients{
+	padding-top: 0px;
+}
+.our-clients.biometric-section .intro {
+    margin-left: 0px;
+}
+.banner-section-wrapper.client-management-banner-wrapper.booking-personal-bnn .laptop-img{
+	margin-top: 40px;
+}
+.banner-section-wrapper.client-management-banner-wrapper.booking-personal-bnn .banner-wrapper {
+	padding-bottom: 60px;
+}
+.our-clients.marketing-sec:before{
+	display: none;
+}
+.game-changer-wrapper.workout-plan.retain-clients .gamebox h3{
+	margin-top: 0px;
+}
+.feature-section-wrapper.more-features.blue-shadow.bio-metric-page {
+    padding-top: 40px;
+}
+.feature-section-wrapper.more-features.blue-shadow.bio-metric-page{
+	padding-bottom: 40px;
+}
+.game-changer-wrapper.workout-plan.retain-clients.col-reverse .row{
+	flex-direction: column-reverse;
+}
+.game-changer-wrapper.workout-plan.retain-clients.col-reverse .gamebox.information-text{
+	margin-top: 0px;
+}
+.banner-section-wrapper{
+	background: none !important;
+}
+.our-clients.marketing-sec.attendance-sec.reporting-sec h2{
+	margin-bottom: 0px;
+}
+.feature-section-wrapper.more-features.blue-shadow .thumbnail-box{
+	margin-bottom: 40px;
+}
+.game-changer-wrapper.workout-plan.retain-clients{
+	padding-top: 60px;
+}
+.navbar-expand-md .navbar-nav li ul{
+	position: static;
+	margin: 0;
+}
+.nav-link{
+	text-align: left;
+}
+.navbar-nav.me-auto.mb-2.mb-md-0{
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.social-icons ul {
+    text-align: left;
+}
+.button-group {
+    text-align: left;
+}
+.navbar-expand-md .navbar-nav li ul li{
+	width: auto;
+}
+.linkicon{
+	margin-bottom: 10px;
+}
+.thumbnail-group-section .spacetop{
+	margin-top: 0px;
+}
+.our-clients.marketing-sec.attendance-sec .gamebox.information-text{
+	padding-top: 0px;
+}
+.employe-feature .thumbnail-box {
+    margin-bottom: 60px;
+}
+.our-clients.marketing-sec.keep-tabs.tr-g{
+    padding-top: 60px;
+}
+.feature-section-wrapper .section-title{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.board img{
+	width:100%;
+}
+.board{
+	width: 100px;
+	margin-bottom: 10px;
+}
+.game-changer-wrapper.diet-plan .gamebox{
+	padding: 0px
+}
+.game-changer-wrapper.workout-plan .grapic{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.game-changer-wrapper.diet-plan{
+	padding-top: 60px;
+}
+.our-clients.billing-payment h2, .game-changer-wrapper h2, .feature-section-wrapper .glossy-title {
+    font-size: 40px;
+}
+.our-clients.billing-payment .intro {
+    margin-top: 40px;
+}
+.game-changer-wrapper.workout-plan .board {
+    margin-top: 0px;
+}
+.game-changer-wrapper.workout-plan h2 {
+    text-align: center;
+}
+.our-clients.billing-payment p {
+    font-size: 20px;
+    line-height: 38px;
+	margin-top: 0px;
+}
+	.feature-section-wrapper .glossy-title{
+		font-size: 80px;
+	}
+	.our-clients h2 {
+		font-size: 80px;
+	}
+	.game-changer-wrapper h2{
+		font-size: 80px;
+	}
+	.we-fitin-section h2{
+		font-size: 40px;
+		line-height:1.2em;
+	}
+	.polygon{
+		width: 200px;
+    	margin: auto;
+    	height: 220px;
+    	margin: auto auto 30px;
+	}
+	.clients-say-section .glossy-title{
+		font-size: 70px;
+	}
+	.banner-section-wrapper:before{
+		display: none;
+	}
+	.game-icon{
+		width: 200px;
+		margin: auto;
+	}
+	.our-clients-logos ul{
+		flex-wrap: wrap;
+		align-items: center;
+	}
+	.our-clients-logos ul li {
+		margin-bottom: 0px;
+		width: 35%;
+	}
+	.our-clients{
+		padding-bottom: 60px;
+	}
+	.banner-wrapper h1 {
+		font-size: 40px;
+		margin-top: 20px;
+	}
+	.banner-buttons{
+		margin-top: 20px;
+	}
+	.navbar-brand {
+		width: 120px;
+	}
+	.were-excited{
+		margin-top: 60px;
+	}
+	.game-changer-wrapper .payment-title {
+		font-size: 30px;
+		line-height: 40px;
+		text-align: left;
+	}
+	.try-it-out{
+		font-size: 20px;
+    	margin-top: 40px;
+	}
+	.try-it-out a{
+		font-size: 25px;
+	}
+	.game-changer-wrapper{
+		padding-bottom: 60px;
+	}
+	.we-fitin-section{
+		padding: 60px 0px;
+	}
+	.we-fitin-section h2{
+		margin-bottom: 40px;
+		font-size: 35px;
+	}
+	.polygon h4{
+		font-size: 18px;
+	}
+	.getting-clients-section{
+		padding: 60px 0px;
+	}
+	.getting-clients-section h3 {
+		font-size: 35px;
+		line-height: 50px;
+	}
+	.getting-clients-section ul li{
+		font-size: 22px;
+	}
+	.margintop80 {
+		margin-top: 60px;
+	}
+	.section-title{
+		font-size: 40px;
+	}
+	.automate-gym-wrapper {
+		padding: 60px 0px;
+	}
+	.clients-say-section h2{
+		margin-top: 0px;
+	}
+	.clients-say-section h2{
+		margin-bottom: 20px;
+	}
+	.blue-footer{
+		padding: 60px 0px;
+	}
+	.navbar-expand-md .navbar-nav li ul {
+		width: 100%;
+		padding-bottom: 0px;
+	}
+	.menulink .linkicon{
+		width: 50px;
+	}
+	.menulink .linkicon img{
+		width: 100%;
+	}
+	.menulink{
+		flex-direction: column;
+	}
+	.left-right-space {
+		padding: 0px 10px;
+	}
+	
+	.sms-refral-section .game-icon {
+		margin-top: 0px;
+	}
+	.sms-refral-section {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+	.our-clients.marketing-sec h2 {
+		text-align: center;
+		margin-bottom: 0px;
+		margin-top: 40px;
+	}
+	.our-clients.marketing-sec .gamebox{
+		padding: 0px;
+	}
+	.our-clients.marketing-sec .gamebox {
+		padding: 0px;
+		margin-top: 40px;
+	}
+	.newsletter-wrapper{
+		margin-top: 0px;
+	}
+	.thumbnail-group-section{
+		padding: 80px 0px;
+	}
+	.thumbnail-group-section.billing-page-thumbnail{
+		padding-bottom: 40px;
+	}
+	.our-clients.billing-payment.payment-history{
+		padding-bottom: 60px;
+	}
+	.our-clients.marketing-sec.attendance-sec h2{
+		font-size: 70px;
+		margin: 0;
+	}
+	.banner-section-wrapper.marketing-banner-wrapper.billing-page .banner-wrapper{
+		padding-bottom: 70px;
+	}
+	.gym-banner-wrapper .gym-banner .btn{
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+	.game-changer-wrapper.workout-plan.boost-productivity:before{
+		display: none;
+	}
+	.our-clients.biometric-section{
+		padding-bottom: 60px;
+	}
+	.game-changer-wrapper.workout-plan.boost-productivity{
+		padding-top: 60px;
+	}
+	.our-clients.marketing-sec.attendance-sec h2{
+		margin-top: 40px;
+	}
+	.faq-wrapper-section .accordion-header button{
+		font-size: 25px;
+	}
+	.owl-dot span{
+		width: 20px;
+		height: 20px;
+		background-color: #ed8193;
+	}
+	.automate-payments{
+		padding-left: 0px;
+		flex-direction: column;
+		display: flex;
+		margin-bottom: 20px;
+	}
+	.automate-payments .grapic{
+		margin-bottom: 0px;
+	}
+	.game-changer-wrapper.workout-plan {
+		padding-top: 10px;
+	}
+	.our-clients.billing-payment.payment-history .intro h3{
+		margin-bottom: 0px;
+	}
+	.biometric-image.qrportal img {
+		width: 100%;
+	}
+	.game-changer-wrapper.give-digital h3{
+		font-size: 40px;
+		line-height: 1.2em;
+		margin-top: 40px;
+	}
+	.game-changer-wrapper.give-digital .gamebox ol{
+		margin-top: 20px;
+	}
+	.game-changer-wrapper.give-digital .gamebox ol li{
+		line-height: 33px;
+    	margin-bottom: 20px;
+	}
+	.subscribe-section .newsletter-wrapper form{
+		width: 100%;
+	}
+	.subscribe-section .newsletter-wrapper h4 {
+		font-size: 30px;
+		line-height: 45px;
+	}
+	.our-clients.think-digital .spacetop .game-icon {
+		margin: auto;
+	}
+	.our-clients.think-digital .spacebootom .game-icon {
+		margin: auto;
+	}
+	.gamebox.spacebootom{
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.our-clients.think-digital .gamebox h3{
+		margin-bottom: 0;
+    	margin-top: 30px;
+	}
+	.our-clients.think-digital .spacetop{
+		margin-bottom: 0px;
+	}
+	.our-clients.think-digital .gamebox{
+		margin-bottom: 40px;
+	}
+	.our-clients.think-digital h2 {
+		font-size: 60px;
+	}
+	.game-changer-wrapper.page-target h2 {
+		font-size: 41px;
+	}
+	.our-clients.think-digital:before{
+		display: none;
+	}
+	.game-changer-wrapper.page-target {
+		padding-top: 80px;
+	}
+	.our-clients.think-digital .digital-marketing-title {
+		margin-bottom: 40px;
+	}
+	.phone-number-pink {
+		display: block;
+		font-size: 20px;
+	}
+	.banner-buttons{
+		margin-bottom: 40px;
+	}
+	.recommended-for{
+		padding: 60px 0px;
+	}
+	.section-title{
+		margin-bottom: 40px;
+	}
+	.section-title {
+		font-size: 33px;
+	}
+	.recommended-image img{
+		width: 100%;
+	}
+	.recommended-for.morebusiness .recommended-box {
+		height: auto;
+		margin-bottom: 40px;
+	}
+	.retrain-more .recommended-box{
+		padding-bottom: 120px;
+	}
+	.retrain-more {
+		padding: 60px 0px;
+	}
+	.toprated-section h3{
+		font-size: 30px;
+	}
+	.toprated-section h2 {
+		font-size: 70px;
+	}
+	.game-changer-wrapper {
+		padding-bottom: 0px;
+	}
+	.margin-top-100.Copyright-text{
+		margin-top: 0px;
+	}
+	.start-for-free-section h3 {
+		font-size: 50px;
+	}
+	.start-for-free-section .btn{
+		padding: 0px 30px;
+	}
+	.start-for-free-section {
+		padding: 60px 0px;
+	}
+	.retrain-more.automate-management .recommended-box{
+		padding: 0px 10px;
+	}
+	.owl-dot span{
+		width: 10px;
+		height: 10px;
+	}
+	.owl-dot.active span {
+		width: 20px;
+		height: 20px;
+	}
+}
+
+
+@media only screen and (max-width:575px){
+
+	.text-start,.text-end{
+		text-align: center !important;
+	}
+	.text-start br,.text-end br {
+		display: none;
+	}
+	.start-for-free-section .btn{
+		position: static;
+	}
+	.start-for-free-section p {
+		font-size: 25px;
+	}
+	.start-for-free-section input[type="email"] {
+		padding: 20px 20px;
+		height: 70px;
+	}
+	.start-for-free-section h3 {
+		font-size: 40px;
+	}
+	.our-clients.think-digital .digital-marketing-title {
+		margin-bottom: 40px;
+	}
+	.subscribe-section .newsletter-wrapper h4{
+		font-size: 25px;
+		line-height: 40px;
+	}
+	.pink-footer {
+		padding-top: 130px;
+	}
+	.phone-number-pink{
+		padding-bottom: 40px;
+	}
+	.newsletter-wrapper {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.game-changer-wrapper.diet-plan.trainer-login{
+		padding-top: 0px;
+	}
+	.game-changer-wrapper.diet-plan.trainer-feedback{
+		padding-top: 0px;
+	}
+	.game-changer-wrapper.diet-plan.forever-session{
+		padding-top: 0px;
+	}
+	.thumbnail-icon{
+		width: auto;
+	}
+	.polygon {
+		width: 125px;
+		height: auto;
+		margin-bottom: 55px;
+	}
+	.polygon-icon{
+		width: 115px;
+	}
+	.polygon.dance-studio img {
+		margin-top: 0px;
+		width: 77px;
+		margin: auto;
+	}
+	.button-group.banner-buttons .btn.phnobtn{
+		margin-left: 0px;
+	}
+	.faq-wrapper-section .accordion-header button{
+		font-size: 20px; 
+	}
+	.banner-wrapper h1 {
+		font-size: 35px;
+	}
+	.game-changer-wrapper.workout-plan.retain-clients {
+		padding-top: 40px;
+	}
+	.our-clients.marketing-sec.attendance-sec.employee-sec h2 {
+		font-size: 50px;
+	}
+	.gamebox.referral-programs {
+		margin-top: 60px;
+	}
+	.sms-refral-section {
+		padding-top: 40px;
+	}
+	.biometric-image{
+		width: auto;
+	}
+	.biometric-image {
+		margin-top: 30px;
+	}
+	.our-clients.marketing-sec.attendance-sec h2{
+		font-size: 40px;
+	}
+	.our-clients-logos ul li{
+		margin-bottom: 40px;
+		text-align: center;
+	}
+	.our-clients-logos ul li img{
+		width: 100px;
+	}
+	.our-clients-logos ul li {
+		margin: 0px 10px 30px;
+	}
+	.our-clients-logos ul.spacetopsixty{
+		margin-top: 0px;
+	}
+	.clients-say-section .glossy-title{
+		font-size: 40px;
+	}
+	.game-changer-wrapper h2{
+		font-size: 50px;
+	}
+	.feature-section-wrapper .glossy-title {
+		font-size: 50px;
+		margin-top: 20px;
+	}
+	.our-clients h2{
+		font-size: 50px;
+	}
+	.we-fitin-section:before{
+		display: none;
+	}
+	.feature-circle {
+		width: auto;
+		height: auto;
+	}
+	.we-fitin-section.why-dance-studios .polygon h4{
+		margin-top: 80px;
+	}
+}

@@ -2363,6 +2363,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 	}
 	.saloon-footer .container-fluid{
 		background-color: #F51E52;
+		padding: 40px 0px;
+		border-radius: 20px;
 	}
 }	
 @media only screen and (max-width:1199px){
@@ -2760,11 +2762,80 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 		margin-bottom: 60px;
 	}
 	.banner-content-wrapper {
+		margin-bottom: 0px;
+	}
+	.bannerimage-space {
+		margin-top: 0px;
+	}
+	.digital-marketing-thumbnail{
+		height: auto;
+	}
+	.digital-marketing-thumbnail img{
+		width: 200px;
+	}
+	.margin-top-minus100{
+		margin-top: 0px;
+	}
+	.digital-marketing-thumbnail.thumb-even {
+		margin-top: 60px;
 		margin-bottom: 60px;
+	}
+	.collectall {
+		padding: 60px 0px 100px;
+	}
+	.game-changer-wrapper.bonustips{
+		height: auto;
+	}
+	.mobileimg {
+		margin-top: -115px;
+	}
+	.game-changer-wrapper.bonustips {
+		height: auto;
+		padding-bottom: 60px;
+	}
+	.form-wrapper{
+		margin: 0px 30px;
 	}
 }
 @media only screen and (max-width:767px){
 
+	.get-ready p {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	
+	.get-ready h3{
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.get-ready {
+		padding: 20px;
+	}
+	.form-wrapper{
+		padding: 20px;
+	}
+	.footer-logo img{
+		width: 150px;
+	}
+	.footer-logo{
+		text-align: center;
+	}
+	.landing-thumb{
+		width: 100%;
+		height: auto;
+	}
+	.automate-payments.walk-ins-list {
+		padding-left: 0px;
+	}
+	.collectall {
+		padding: 0px 0px 100px;
+	}
+	.mobileimg {
+		margin-top: -88px;
+	}
+.recommended-for {
+	padding: 60px 0px 40px;
+}
 .banner-content-wrapper{
 	margin-bottom: 0px;
 }
@@ -3418,5 +3489,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 	}
 	.we-fitin-section.why-dance-studios .polygon h4{
 		margin-top: 80px;
+	}
+	.mobileimg {
+		margin-top: -45px;
 	}
 }

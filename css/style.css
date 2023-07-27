@@ -3395,6 +3395,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 
 @media only screen and (max-width:575px){
 
+	.form-wrapper {
+		margin: 0px 10px;
+	}
 	.saloon-footer {
 		padding-top: 60px;
 	}

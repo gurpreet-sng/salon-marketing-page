@@ -2821,7 +2821,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 	}
 }
 @media only screen and (max-width:767px){
-
+	.form-wrapper-holder {
+		margin-bottom: 40px;
+	}
 	.get-ready p {
 		font-size: 20px;
 		line-height: 30px;
@@ -3395,9 +3397,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 
 	.saloon-footer {
 		padding-top: 60px;
-	}
-	.form-wrapper-holder{
-		margin-bottom: 0px;
 	}
 	.game-changer-wrapper.digitalexp.margin-top-100{
 		margin-top: 60px;

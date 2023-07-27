@@ -1,4 +1,4 @@
-@font-face {
+@font-face{
     font-family: 'Tartuffo_TrialBoldBF643371dae156a';
     src: url('../fonts/Tartuffo_TrialBoldBF643371dae156a.eot');
     src: url('../fonts/Tartuffo_TrialBoldBF643371dae156a.eot') format('embedded-opentype'),
@@ -20,9 +20,6 @@ body{
 }
 .easy-saloon-software .collapse.navbar-collapse{
 	justify-content: end;
-}
-.give-digital{
-
 }
 .collectall{
     padding: 150px 0px 100px;
@@ -138,6 +135,7 @@ ul.list-style li:before{
     justify-content: center;
     flex-direction: column;
 	margin-bottom: 40px;
+	width: 100%;
 }
 .landing-thumb h6{
 	font-size: 20px;
@@ -1510,9 +1508,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 .billbord-image{
 	position: relative;
 }
-.billbord-image .follow-img{
-
-}
 .getting-clients-section.billboard-sec .left-right-space{
 	padding-right: 0px;
 }
@@ -2478,6 +2473,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 }
 @media only screen and (max-width:991px){
 
+	.row.collectall{
+		flex-direction: column-reverse;
+	}
+	.digital-marketing-thumbnail.thumb-odd{
+		display: flex;
+		width: 100%;
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+	.digital-marketing-thumbnail.thumb-odd h6{
+		margin-bottom: 0px;
+		margin-top: 40px;
+	}
+	.landingimage{
+		padding-left: 0px;
+		margin-top: 60px;
+	}
 	.game-changer-wrapper.automate-payments .gamebox{
 		margin-bottom: 40px;
 	}
@@ -2796,6 +2808,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 	.form-wrapper{
 		margin: 0px 30px;
 	}
+	.banner-wrapper h1{
+		text-align: center;
+	}
+	.banner-buttons {
+		text-align: center;
+	}
+	.laptop-img{
+		margin: auto;
+	}
 }
 @media only screen and (max-width:767px){
 
@@ -2979,7 +3000,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
     justify-content: flex-start;
 }
 .social-icons ul {
-    text-align: left;
+    text-align: center;
+    margin-top: 20px;
 }
 .button-group {
     text-align: left;
@@ -3358,11 +3380,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 		width: 20px;
 		height: 20px;
 	}
+	.button-group.banner-buttons{
+		text-align: center;
+	}
+	.laptop-img {
+		width: 100%;
+	}
 }
 
 
 @media only screen and (max-width:575px){
 
+	.saloon-footer {
+		padding-top: 60px;
+	}
+	.form-wrapper-holder{
+		margin-bottom: 0px;
+	}
+	.saloon-footer .container-fluid{
+		padding: 20px 0px 40px;
+	}
+	.game-changer-wrapper.digitalexp.margin-top-100{
+		margin-top: 60px;
+	}
+	.landingimage{
+		margin-top: 30px;
+	}
 	.text-start,.text-end{
 		text-align: center !important;
 	}

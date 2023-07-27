@@ -2353,13 +2353,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff2d5', end
 	.landing-thumb{
 		height: 500px;
 	}
-	.mobileimg {
+	.mobileimg { 
 		margin-top: -95px;
 	}
 	.saloon-footer .container-fluid{
 		background-color: #F51E52;
-		padding: 40px 0px;
 		border-radius: 20px;
+	}
+	.form-wrapper{
+		margin-top: 60px;
 	}
 }	
 @media only screen and (max-width:1199px){
